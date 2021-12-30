@@ -1,0 +1,13 @@
+{   "USD":{"satis":"12.6481","alis":"12.6448","degisim":"-0,11"},
+    "EUR":{"satis":"14.4025","alis":"14.3183","degisim":"-0,13"},
+    "GBP":{"satis":"17.1931","alis":"16.9695","degisim":"0,31"},
+    "BTC":{"satis":"46573.59","alis":"46471.67","degisim":"-1,84"},
+    "ETH":{"satis":"3645.89","alis":"3645.89","degisim":"-2,81"},
+    "XRP":{"satis":"0.8201","alis":"0.8201","degisim":"-1,72"},
+    "BCH":{"satis":"428","alis":"428","degisim":"-2,25"},
+    "LTC":{"satis":"145.5829702","alis":"145.5829702","degisim":"-2,46"},
+    "GA":{"satis":"732.814","alis":"732.713","degisim":"-0,22"},
+    "GAG":{"satis":"9.262","alis":"9.2457","degisim":"-0,45"},
+    "XAU/USD":{"satis":"1802.33","alis":"1802.08","degisim":"-0,13"},
+    "EUR/USD":{"satis":"1.13491","alis":"1.1348","degisim":"-0,01"},
+    "XU100":{"satis":"1895.46","alis":"1895.46","degisim":"2,43"}}
